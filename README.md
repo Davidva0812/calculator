@@ -5,6 +5,10 @@ using Python's Tkinter GUI framework.
 
 ---
 
+## Screenshots
+![screenshot](light.png)
+![screenshot](dark.png)
+
 ## Features
 - Standard operations: `+`, `-`, `*`, `/`, `^`
 - Square root calculation (`√`)
